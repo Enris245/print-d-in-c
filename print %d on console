@@ -1,0 +1,9 @@
+#inclde<stdio.h>
+#include<conio.h>
+
+ int main()
+ {
+ clrscr();
+ printf("%%d");
+ return 0;
+ }
